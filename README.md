@@ -1,16 +1,3 @@
-#new master
-dsadsa 
-
-sdfdsf /r
-
-df 
-
-#sd
-f
-
-sdf
-
-ds
-
-fsd
-
+### Optimization Tips and Tricks
+* [111](mailto:paul.dnet@gmail.com)
+* [dsadasd](skype:paul.minsk)
