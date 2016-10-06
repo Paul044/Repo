@@ -1,5 +1,16 @@
-### Optimization Tips and Tricks
-* [111](mailto:paul.dnet@gmail.com)
-* [dsadasd](skype:paul.minsk?text)
- <a href="skype:paul.minsk?text">Optimize images</a>
-<a href="skype:echo123">текст</a>
+##PAVEL VRUBLEUSKI
+email: paul.dnet@gmail.com
+
+phone: +375259983376
+
+skype: paul.minsk
+
+github/codewars: Paul044
+
+
+education: BNTU
+
+graduation year: 2014
+
+occupation: unemployed
+
