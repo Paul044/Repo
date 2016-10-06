@@ -7,7 +7,6 @@ skype: paul.minsk
 
 github/codewars: Paul044
 
-
 education: BNTU
 
 graduation year: 2014
