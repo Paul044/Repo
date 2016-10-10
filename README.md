@@ -2,11 +2,12 @@
 
 ## Synopsis
 
-Embroidery hoop would be extremely useful device if you'd like to do embroidery. It's just two frames of the same shape and similar size, one placed in another. Embroidery hoops could be provided in different shapes (e.g. circle, oval, square-like and rectangle-like) and produced either from plastic or wood. The plastic one has adjustment screw on the internal frame.
+Embroidery hoop would be extremely useful device if you'd like to do embroidery. It's just two frames of the same shape and similar size, one placed in another. Embroidery hoops could be provided in different shapes (e.g. circle, oval, square-like and rectangle-like) and produced either from plastic or wood. Embroidery hoop. There’s might be adjustment screw on the internal frame depending on manufacturer.
 
 ## Example
 
 ![alt tag](http://www.melangi.com.ua/IMG/arton1216.jpg)
+![alt tag](http://images.ua.prom.st/355381114_w640_h640_1.jpg)
 
 ## Motivation
 
@@ -28,19 +29,21 @@ Now you’re ready to go.
 You can use embroidery hoop with:
 
 1.	Your hands
-a.	In that case just take the hoop in one hand and do the embroidery things with another
+
+In that case just take the hoop in one hand and do the embroidery things with another
 
 2.	Embroidery stand
-a.	In that case place the hoop to the stand according to the manufacturer instruction. Now you got your both hand free to embroider
+
+In that case place the hoop to the stand according to the manufacturer instruction. Now you got your both hand free to embroider
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
-
+When you’ve accomplished the installation you might like to test it. Gently push your fabric in the middle. If it still looks smooth than it’s ok. In other case repeat the installation and make sure that it fits tight (e.g. tighten adjustment screw even more) 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Any questions and suggestions would be appreciated. Write me at paul.dnet@gmail.com
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+No license required
+
