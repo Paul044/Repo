@@ -1,13 +1,12 @@
-
 #Embroidery hoop
 
 ## Synopsis
 
-Embroidery hoop would be extremely useful device if you'd like to do embroidery. It's just two frames of the same shape and similar size, one placed in another. Embroidery hoops could be provided in different shapes (e.g. circle, oval, square-like and rectangle-like) and produced either from plastic or wood. The plastic one has adjustment screw on the internal frame
+Embroidery hoop would be extremely useful device if you'd like to do embroidery. It's just two frames of the same shape and similar size, one placed in another. Embroidery hoops could be provided in different shapes (e.g. circle, oval, square-like and rectangle-like) and produced either from plastic or wood. The plastic one has adjustment screw on the internal frame.
 
 ## Example
 
-<img src=”http://www.melangi.com.ua/IMG/arton1216.jpg” alt=”Embroidery” />
+![alt tag](http://www.melangi.com.ua/IMG/arton1216.jpg)
 
 ## Motivation
 
@@ -27,10 +26,13 @@ Now you’re ready to go.
 ## API Reference
 
 You can use embroidery hoop with:
+
 1.	Your hands
 a.	In that case just take the hoop in one hand and do the embroidery things with another
+
 2.	Embroidery stand
-a.	In that case place the hoop to the stand according to the manufacturer instruction. Now you got your both hand free to emroider
+a.	In that case place the hoop to the stand according to the manufacturer instruction. Now you got your both hand free to embroider
+
 ## Tests
 
 Describe and show how to run the tests with code examples.
