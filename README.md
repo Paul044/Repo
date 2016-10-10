@@ -6,8 +6,8 @@ Embroidery hoop would be extremely useful device if you'd like to do embroidery.
 
 ## Example
 
-![alt tag](http://www.melangi.com.ua/IMG/arton1216.jpg)
-![alt tag](http://images.ua.prom.st/355381114_w640_h640_1.jpg)
+![hoop](http://www.melangi.com.ua/IMG/arton1216.jpg)
+
 
 ## Motivation
 
@@ -30,11 +30,11 @@ You can use embroidery hoop with:
 
 1.	Your hands
 
-In that case just take the hoop in one hand and do the embroidery things with another
+    In that case just take the hoop in one hand and do the embroidery things with another
 
 2.	Embroidery stand
 
-In that case place the hoop to the stand according to the manufacturer instruction. Now you got your both hand free to embroider
+    In that case place the hoop to the stand according to the manufacturer instruction. Now you got your both hand free to embroider
 
 ## Tests
 
