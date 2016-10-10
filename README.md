@@ -7,7 +7,7 @@ Embroidery hoop would be extremely useful device if you'd like to do embroidery.
 
 ## Example
 
-<img src=” http://www.melangi.com.ua/IMG/arton1216.jpg” alt=”Embroidery hoop” />
+<img src=”http://www.melangi.com.ua/IMG/arton1216.jpg” alt=”Embroidery” />
 
 ## Motivation
 
